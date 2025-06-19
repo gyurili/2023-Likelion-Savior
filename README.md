@@ -1,4 +1,4 @@
-# 🌍 Savior - 해외 여행 물가 정보 서비스 
+# 🌍 Savior - 해외 여행 물가 정보 서비스  
 
 ![화면 캡처 2023-08-19 024254](https://github.com/user-attachments/assets/dbdfc8d4-362d-4692-9eed-5f20a95e0fc1)
 > 디지털 정보 격차를 줄이기 위한 여행 정보 공유 서비스  
